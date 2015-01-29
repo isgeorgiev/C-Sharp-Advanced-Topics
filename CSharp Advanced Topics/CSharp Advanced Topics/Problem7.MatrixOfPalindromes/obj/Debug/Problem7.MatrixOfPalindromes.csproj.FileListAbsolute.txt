@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics\Problem7.MatrixOfPalindromes\bin\Debug\Problem7.MatrixOfPalindromes.exe.config
